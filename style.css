@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#main-title {
+  color: darkblue;
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+ul {
+  margin-top: 20px;
+  list-style-type: square;
+}
